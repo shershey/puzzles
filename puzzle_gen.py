@@ -81,8 +81,9 @@ What person is guessing: p_(n+1) = (n+1) mod 3
 v_(n+1) is either the sum of the other two or the person before her 
 (mod 3) is the sum.
 If v_n is the sum
-  The person before would have declared their number
-Therefore, if the person before passed
+  The person before would have declared their number after n-1
+  passes
+Therefore, if their have been n passes:
   p_n+1 can declare her number as v_n + v_(n-1)
 
 After the inductive step, we can generate puzzles of arbitrary length.
