@@ -5,7 +5,7 @@ setup = '''
 Hey %s, %s, and %s.  You have numbers on your forheads.  
 I promise they're positive integers.  One of them is the sum 
 of the other two.  Why don't you go around in a circle and tell
-us what you're number is if you can infer it with your genius logic
+us what your number is if you can infer it with your genius logic
 brains.
 '''
 
